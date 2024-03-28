@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alirezajavadigit&label=Profile%20views&color=0e75b6&style=flat" alt="alirezajavadigit" /> </p>
 
-- 🌱 I’m currently learning **Algorithm, clean coding, Laravel**
+- 🌱 I’m currently learning **react**
 
 - 👨‍💻 All of my projects are available at [alirezajawadi.ir](alirezajawadi.ir)
 

@@ -3,17 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alirezajavadigit&label=Profile%20views&color=0e75b6&style=flat" alt="alirezajavadigit" /> </p>
 
-- 🔭 I’m currently working on [myFramwork](https://github.com/alirezajavadigit/kavare)
-
 - 🌱 I’m currently learning **Algorithm, clean coding, Laravel**
 
 - 👨‍💻 All of my projects are available at [alirezajawadi.ir](alirezajawadi.ir)
 
-- 💬 Ask me about **PHP, Laravel, Telegram Bots**
+- 💬 Ask me about **PHP, Laravel, Telegram Bots, React, Next.js**
 
 - 📫 How to reach me **alirezajavadigit@gmail.com**
-
-- 📄 Know about my experiences [alirezajawadi.ir/cv](alirezajawadi.ir/cv)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

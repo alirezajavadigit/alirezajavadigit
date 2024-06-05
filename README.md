@@ -1,10 +1,10 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=40&center=true&vCenter=true&width=1000&lines=Bem+vindos!+Welcome!;Full+Stack+Developer;+Python+|+SQL+|+Javascript+|+React)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=40&center=true&vCenter=true&width=1000&lines=hi, I am Alireza javadi!;Full+Stack+Developer;+PHP+|+Laravel+|+SQL+|+Javascript+|+React)](https://git.io/typing-svg)
 
 <div align="center">
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luana-ap-cardoso/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alireza-javadii)
 
 <h1></h1>
 

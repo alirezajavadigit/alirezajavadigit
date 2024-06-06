@@ -21,8 +21,10 @@
 <h1></h1> 
  
 <p align="center">
-<a href=#><img src="github-user-contribution.svg"></a> 
- </p>
+  <!-- Typing SVG by Getintorj - https://github.com/getintorj/readme-typing-svg -->
+  <a href="https://github.com/getintorj/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=JOPHIL%20GULANE%20;SOFTWARE%20ENGINEER%20;ETHICAL%20HACKER%20;FULL-STACK%20WEB%20AND%20APP%20DEVELOPER;ARTIFICIAL%20INTELLIGENCE (AI);PROGRAMMER%20;COMPUTER%20SCIENTIST&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
 <div align="center">  
   <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api?username=alirezajavadigit&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Luana Cardoso github stats" /> 

@@ -19,7 +19,9 @@
 <img align="align" alt="CRM" src="https://img.shields.io/badge/CRM-003366?style=for-the-badge&logo=crm&logoColor=white"/>
 <img align="align" alt="vTiger" src="https://img.shields.io/badge/vTiger-0D7680?style=for-the-badge&logo=vtiger&logoColor=white"/>
 <h1></h1> 
+
  
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 <div align="center">  
   <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api?username=alirezajavadigit&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Luana Cardoso github stats" /> 

@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=40&center=true&vCenter=true&width=1000&lines=I+am+Alireza+javadi!;Mid-Level+Back-End+Developer+|+PHP+&+Laravel+Specialist;+PHP+|+Laravel+|+SQL+|+Javascript+|+React)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=40&center=true&vCenter=true&width=1000&lines=I+am+Alireza+javadi!;Mid-Level+Back-End+Developer;PHP+&+Laravel+Specialist;+PHP+|+Laravel+|+SQL+|+Javascript+|+React)](https://git.io/typing-svg)
 
 <div align="center">
 

@@ -22,3 +22,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alirezajavadigit&theme=flat&no-frame=false&no-bg=false&margin-w=4)
+
+## --
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alirezajavadigit&show_icons=true&locale=en" alt="alireza javadi" /></p>

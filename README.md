@@ -21,5 +21,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alirezajavadigit&theme=highcontrast&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=alirezajavadigit&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 

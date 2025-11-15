@@ -16,7 +16,11 @@
 <img align="align" alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white"/>
 <img align="align" alt="CRM" src="https://img.shields.io/badge/CRM-003366?style=for-the-badge&logo=crm&logoColor=white"/>
 <img align="align" alt="vTiger" src="https://img.shields.io/badge/vTiger-0D7680?style=for-the-badge&logo=vtiger&logoColor=white"/>
+<img align="align" alt="Bagisto" src="https://img.shields.io/badge/Bagisto-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img align="align" alt="n8n" src="https://img.shields.io/badge/n8n-0D83FF?style=for-the-badge&logo=n8n&logoColor=white"/>
 <h1></h1> 
+</div>
+
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alirezajavadigit&theme=highcontrast&hide_border=false)<br/>
 

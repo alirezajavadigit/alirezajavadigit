@@ -1,30 +1,31 @@
+# Hey, I'm Alireza Javadi 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=40&center=true&vCenter=true&width=1000&lines=I+am+Alireza+javadi!;Back-End+Developer;PHP++Laravel+Specialist;)](https://git.io/typing-svg)
+Back-End Developer specializing in PHP and Laravel with 4+ years of experience. I build scalable APIs, modular architectures, and automation workflows.
 
-<div align="center">
+Currently at **Persian Group**, working on multi-vendor platforms, CRM integrations, and N8N automation pipelines.
 
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alireza-javadii)
-
-<h1></h1>
-
-<h1>Technology and frameworks</h1>
+## Tech Stack
 
 <div style="display: inline_block">
-<img align="align" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img align="align" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-<img align="align" alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white"/>
-<img align="align" alt="CRM" src="https://img.shields.io/badge/CRM-003366?style=for-the-badge&logo=crm&logoColor=white"/>
-<img align="align" alt="vTiger" src="https://img.shields.io/badge/vTiger-0D7680?style=for-the-badge&logo=vtiger&logoColor=white"/>
-<img align="align" alt="Bagisto" src="https://img.shields.io/badge/Bagisto-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-<img align="align" alt="n8n" src="https://img.shields.io/badge/n8n-0D83FF?style=for-the-badge&logo=n8n&logoColor=white"/>
-<h1></h1> 
+<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img alt="n8n" src="https://img.shields.io/badge/n8n-0D83FF?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 </div>
 
+## Open Source Projects
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=alirezajavadigit&theme=highcontrast&hide_border=false)<br/>
+| Project | Description | Stars |
+|---------|-------------|-------|
+| [JSONize](https://github.com/alirezajavadigit/JSONize) | PHP library for standardizing JSON API responses with fluent syntax | ![Stars](https://img.shields.io/github/stars/alirezajavadigit/JSONize?style=flat) |
+| [VibeTiger](https://github.com/alirezajavadigit/VibeTiger) | PHP wrapper for the VTiger CRM API with fluent query interface | ![Stars](https://img.shields.io/github/stars/alirezajavadigit/VibeTiger?style=flat) |
 
-## 🏆 GitHub Trophies
+## Get in Touch
 
-![](https://github-profile-trophy.vercel.app/?username=alirezajavadigit&theme=flat&no-frame=false&no-bg=false&margin-w=4)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alireza-javadii)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.javadi.xyz)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javadi@javadi.xyz)
